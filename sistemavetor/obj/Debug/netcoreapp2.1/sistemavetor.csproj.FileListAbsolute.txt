@@ -1,0 +1,11 @@
+/Users/aluno/Projects/sistemavetor/sistemavetor/bin/Debug/netcoreapp2.1/sistemavetor.deps.json
+/Users/aluno/Projects/sistemavetor/sistemavetor/bin/Debug/netcoreapp2.1/sistemavetor.runtimeconfig.json
+/Users/aluno/Projects/sistemavetor/sistemavetor/bin/Debug/netcoreapp2.1/sistemavetor.runtimeconfig.dev.json
+/Users/aluno/Projects/sistemavetor/sistemavetor/bin/Debug/netcoreapp2.1/sistemavetor.dll
+/Users/aluno/Projects/sistemavetor/sistemavetor/bin/Debug/netcoreapp2.1/sistemavetor.pdb
+/Users/aluno/Projects/sistemavetor/sistemavetor/obj/Debug/netcoreapp2.1/sistemavetor.csprojAssemblyReference.cache
+/Users/aluno/Projects/sistemavetor/sistemavetor/obj/Debug/netcoreapp2.1/sistemavetor.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/sistemavetor/sistemavetor/obj/Debug/netcoreapp2.1/sistemavetor.AssemblyInfoInputs.cache
+/Users/aluno/Projects/sistemavetor/sistemavetor/obj/Debug/netcoreapp2.1/sistemavetor.AssemblyInfo.cs
+/Users/aluno/Projects/sistemavetor/sistemavetor/obj/Debug/netcoreapp2.1/sistemavetor.dll
+/Users/aluno/Projects/sistemavetor/sistemavetor/obj/Debug/netcoreapp2.1/sistemavetor.pdb

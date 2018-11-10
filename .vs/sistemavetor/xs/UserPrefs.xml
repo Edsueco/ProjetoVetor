@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8B33BCA9-7AD0-4D2D-B40F-C1E36458BAE6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistemavetor/Program.cs">
+    <Files>
+      <File FileName="sistemavetor/Program.cs" Line="15" Column="29" />
+      <File FileName="sistemavetor/Vetor.cs" Line="33" Column="9" />
+      <File FileName="sistemavetor/MaiorMenor.cs" Line="29" Column="35" />
+      <File FileName="../sistematabuada/sistematabuada/Program.cs" Line="10" Column="22" />
+      <File FileName="../sistematabuada/sistematabuada/Tabuada.cs" Line="20" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.sistemavetor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
